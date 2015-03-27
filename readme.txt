@@ -78,6 +78,12 @@ Prioritizing above-the-fold content it's an important factor to speed-up your we
 
 The aim is simplicity, editing a single file avoids having to maintain two separate stylesheets.
 
+= And what CSS should I mark to display it "above-the-fold" =
+
+That is the million dollar question, this plugin does not do this task automatically, only provides a method for easy and quick implementation.
+There are some tools to help you in the process of select the rights fragments of code, and maybe you will have to modify your stylesheet structure to properly isolate these CSS fragments.
+You can find a lot of resouces about this topic performing a simple Google search like "css above the fold".
+
 == Screenshots ==
 
 1. A edited CSS file using Whole section commented fragment
