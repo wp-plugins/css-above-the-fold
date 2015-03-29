@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== CSS Above The Fold ===
 Contributors: blogestudio, pauiglesias
 Tags: minify, minify css, minify stylesheet, minification, optimization, optimize, stylesheet, css, above the fold, speed, wpo
 Requires at least: 3.3.2
