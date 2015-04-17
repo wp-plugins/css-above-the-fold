@@ -2,7 +2,7 @@
 Contributors: blogestudio, pauiglesias
 Tags: minify, minify css, minify stylesheet, minification, optimization, optimize, stylesheet, css, above the fold, speed, wpo
 Requires at least: 3.3.2
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -94,6 +94,7 @@ You can find a lot of resouces about this topic performing a simple Google searc
 
 = 1.0 =
 * Initial Release.
+* Tested until WordPress 4.2
 
 == Upgrade Notice ==
 
